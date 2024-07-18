@@ -1,0 +1,37 @@
+[
+    {
+        "book_id": "9f0f2482-63b5-41cb-a369-1c1ac3904578",
+        "title": "The strongest swords man",
+        "author": "Roronoa zoro",
+        "publications": "tofoei",
+        "website": "animesuge"
+    },
+    {
+        "book_id": "42b65984-181a-4e0f-83fe-b6a25ba9a9af",
+        "title": "The black leg ",
+        "author": "Sanji",
+        "publications": "tofoei leg",
+        "website": "Netflix"
+    },
+    {
+        "book_id": "b842edb7-cc6d-44cc-9ce7-ff895d6c7e8f",
+        "title": "The Navigator ",
+        "author": "Nami",
+        "publications": "tofoei",
+        "website": "amazon"
+    },
+    {
+        "book_id": "03cb4328-dbc6-4cf0-8bc0-4a4dfdea1ef8",
+        "title": "The Archeaologist",
+        "author": "Robin",
+        "publications": "tofoei",
+        "website": "Disney"
+    },
+    {
+        "book_id": "e27a30c2-6cbb-46a4-9d8f-b0a443753372",
+        "title": "The bravest man of the sea",
+        "author": "Usopp",
+        "publications": "tofoei_fear",
+        "website": "animesuge_fear"
+    }
+]
